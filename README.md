@@ -46,7 +46,7 @@ float avg;
 	   }
     }
    } 
-   // Show total grad,Avg grad
+   // Show total grad,Avg grad.
    printf("\nTotalgrad = %f",totalgrad);
    printf("\nAvg = %f",avg);
 }
