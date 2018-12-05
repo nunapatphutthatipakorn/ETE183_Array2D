@@ -1,3 +1,4 @@
+(
 #include <stdio.h>
 main()
 {
@@ -50,3 +51,4 @@ float avg;
    printf("\nTotalgrad = %f",totalgrad);
    printf("\nAvg = %f",avg);
 }
+)
